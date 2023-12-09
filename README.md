@@ -1,10 +1,10 @@
 [twitter]: https://twitter.com/blanewins
 [linkedin]: https://www.linkedin.com/in/blanewinstead/
 
-<img src="https://github.com/BlaneWinstead/BlaneWinstead/assets/35059636/f41124fb-c51f-420a-9a6d-ad0521a4924e" width="1280px" />
+<img src="https://github.com/BlaneWins/BlaneWins/assets/35059636/0910714b-6c73-4386-9b7b-8a339b10fc4e" width="1280px" />
 
 <div align="center">
-  <div>🌱 I’m currently learning Javascript and React.</div>
+  <div>🌱 I’m currently pursuing my Bachelor's in Software Engineering.</div>
   <div>🏢 I love building real-world software solutions!</div>
   <div>⚡ Fun fact: I collect Pokemon cards in my free time!</div>
 </div>
@@ -17,13 +17,6 @@
 
 
 <br/>  
-
-
-## My Skill Set  
-
-<br/>  
-
-  
 
 
 ## Github Stats  
