@@ -1,55 +1,16 @@
-[twitter]: https://twitter.com/blanewins
-[linkedin]: https://www.linkedin.com/in/blanewinstead/
+Hi, I'm Blane Winstead. I'm a Software Engineer currently pursuing my Bachelor's at Western Governor's University. I'm a disciplined problem solver, curious about how things work, and am a genuine team player looking to collaborate. I've been coding and developing for three years, and have previous domain knowledge of the automotive industry where I've worked on cars for over ten years.
 
-<img src="https://github.com/BlaneWins/BlaneWins/assets/35059636/0910714b-6c73-4386-9b7b-8a339b10fc4e" width="1280px" />
+## Find me on the Web :earth_americas: :
 
-<div align="center">
-  <div>🌱 I’m currently pursuing my Bachelor's in Software Engineering.</div>
-  <div>🏢 I love building real-world software solutions!</div>
-  <div>⚡ Fun fact: I collect Pokemon cards in my free time!</div>
-</div>
-  
+[LinkedIn](https://www.linkedin.com/in/blanewinstead/ "LinkedIn")
 
-## Connect with me:
+## Skills and Interests  :bulb: :
 
-[<img align="left" alt="blanewinstead | Twitter" width="30px" src="https://cdn.simpleicons.org/twitter/black/white" />][twitter]
-[<img align="left" alt="blanewinstead | LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin/black/white" />][linkedin]
+**Technologies**: C#/.NET, SQL, HTML/CSS, Python, Git, Javascript.
 
+**Skills**: Writing and Debugging Code, Object Oriented Programming, AGILE Methodologies, Data Structures and Algorithms, Operating Systems, Project Management, UI/UX Design.
 
-<br/>  
+**Interests**: Gaming, BBQ’ng/Cooking, Cars and Sim Racing, Meditation and Yoga.
 
-
-## Github Stats  
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=blanewins&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=blanewins&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=blanewins&show_icons=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blanewins&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blanewins&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanewins&show_icons=true" />
-</picture>
-</div>  
-
-
-
-<br/>  
-
-
-## Check out my portfolio here: 
-🔗 [Link](https://www.blanewins.com)
-
+![severance-season-2-ep-6-22](https://github.com/user-attachments/assets/3ca73f64-f576-4980-9743-05704e715616)
+> Workstations of the "Macro Data Refinement" (MDR) team on the AppleTV show *Severance*, currently the greatest show on television (my opinion), *circa 2025*. The office is fictitious, set inside the "Lumon" testing floor which is filmed in the real life location, inside of the "Bell Works" building, where the programming language C was largely developed in 1972.
